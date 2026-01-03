@@ -1,6 +1,6 @@
 ## Hi, I'm Andres 👋
 
-Computer Engineering student at the **Tecnológico de Costa Rica ** with a strong focus on **databases and backend systems**. I have hands-on experience building **data-driven applications**, designing relational schemas, and implementing business logic with transactional integrity.
+Computer Engineering student at the **Tecnológico de Costa Rica** with a strong focus on **databases and backend systems**. I have hands-on experience building **data-driven applications**, designing relational schemas, and implementing business logic with transactional integrity.
 
 I work primarily with **Java, Python and SQL**, developing backend components, ETL pipelines, and database-centric solutions. I also have experience deploying and managing services in **containerized environments** using **Docker and Kubernetes**, applying good practices in architecture, automation, and technical documentation.
 
