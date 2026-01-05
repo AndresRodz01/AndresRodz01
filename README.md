@@ -29,7 +29,7 @@ Beyond the technical side, I am a **student-athlete**, which has strengthened my
 
 ## 📫 Contact
 
-- **GitHub:** https://github.com/your-username  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
-- **Email:** your.email@example.com
+- **GitHub:** https://github.com/AndresRodz01  
+- **LinkedIn:** www.linkedin.com/in/andres-rodríguez-acosta 
+- **Email:** andres.rodz.aco@gmail.com
 
