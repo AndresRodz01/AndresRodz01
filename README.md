@@ -10,7 +10,7 @@ Beyond the technical side, I am a **student-athlete**, which has strengthened my
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Java, Python, SQL  
+- **Programming Languages:** Java, Python, SQL, Kotlin  
 - **Databases:** PostgreSQL, SQL Server, MySQL  
 - **Data & Backend:** Advanced SQL, ETL pipelines, transactional systems, data modeling  
 - **DevOps & Tools:** Docker, Kubernetes, Git, Linux  
@@ -20,6 +20,7 @@ Beyond the technical side, I am a **student-athlete**, which has strengthened my
 
 ## 🎯 Current Focus
 
+- AI Engineering
 - Backend and database-driven system design  
 - Data modeling and optimization  
 - ETL and data processing workflows  
